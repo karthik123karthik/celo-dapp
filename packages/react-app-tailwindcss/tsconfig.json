@@ -20,6 +20,6 @@
     },
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/confessions.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/confessions.js", "pages/index.tsx"],
   "exclude": ["node_modules"]
 }

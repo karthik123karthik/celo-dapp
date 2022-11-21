@@ -10,8 +10,8 @@ const defaultNetwork = "alfajores";
 const mnemonicPath = "m/44'/52752'/0'/0"; // derivation path used by Celo
 
 // This is the mnemonic used by celo-devchain
-const DEVCHAIN_MNEMONIC =
-  "concert load couple harbor equip island argue ramp clarify fence smart topic";
+const DEVCHAIN_MNEMONIC = "concert load couple harbor equip island argue ramp clarify fence smart topic";
+
 
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
@@ -19,6 +19,8 @@ const DEVCHAIN_MNEMONIC =
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
+
+
 module.exports = {
   solidity: {
     version: "0.8.17",
