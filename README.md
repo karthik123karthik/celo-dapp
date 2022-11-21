@@ -15,6 +15,10 @@ Celo Composer is built on Celo to make it simple to build dApps using a variety 
 
 
 ### frontend 
-
-##Home page
+## Home page
 ![Screenshot (135)](https://user-images.githubusercontent.com/84716922/203034192-3198ff06-3e76-435d-b769-69b13c314f5c.png)
+
+## Confessions Page
+![Screenshot (136)](https://user-images.githubusercontent.com/84716922/203034446-50e9c868-8031-44bd-8373-8b63592dfc05.png)
+
+
